@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	    <title>Books Store Application</title>
+	    <title>Priyatham Books Store Application</title>
 	</head>
 	<body>
 	    <h1>Books Management</h1>
